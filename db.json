@@ -1,14 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "plants": [
+    {
+      "id": 1,
+      "plant_name": "Monstera dziurawa",
+      "latin_name": "Monstera deliciosa",
+      "poisonous": "nie trująca",
+      "lighting": "rozproszone światło",
+      "soil": "podłoże przepuszczalne, dobrze natlenione",
+      "picture": "https://homejungle.club/wp-content/uploads/monstera-deliciosa-dziurawa-na-paliku-xxl-homejungleclub.jpeg",
+    },
+    {
+      "id": 2,
+      "plant_name": "Kalatea pasiasta",
+      "latin_name": "Calathea zebrina",
+      "poisonous": "nie trująca",
+      "lighting": "rozproszone światło",
+      "soil": "podłoże przepuszczalne, dobrze natlenione",
+      "picture": "https://zielony-parapet.pl/4969-thickbox_default/calathea-zebrina-kalatea-pasiasta.jpg",
+    },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
