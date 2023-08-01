@@ -3,20 +3,92 @@
     {
       "id": 1,
       "plant_name": "Monstera dziurawa",
-      "latin_name": "Monstera deliciosa",
-      "poisonous": "nie trująca",
-      "lighting": "rozproszone światło",
-      "soil": "podłoże przepuszczalne, dobrze natlenione",
+      "other_name": "Monstera deliciosa",
+      "pet_friendly": " Liście monstery są silnie trujące.",
+      "lighting": "Monsterę ustawiamy w miejscu o rozproszonym świetle, dość jasnym, ale da radę i w półcieniu.",
+      "soil": "Monstery najlepiej czują się w lekkim i przepuszczalnym podłożu, bogatym w chipsy kokosowe, korę sosnową, perlit itp.",
       "picture": "https://homejungle.club/wp-content/uploads/monstera-deliciosa-dziurawa-na-paliku-xxl-homejungleclub.jpeg"
     },
     {
       "id": 2,
       "plant_name": "Kalatea pasiasta",
-      "latin_name": "Calathea zebrina",
-      "poisonous": "nie trująca",
-      "lighting": "rozproszone światło",
-      "soil": "podłoże przepuszczalne, dobrze natlenione",
+      "other_name": "Calathea zebrina",
+      "pet_friendly": "Kalatea jest nietrująca",
+      "lighting": "Półcieniste i cieniste.",
+      "soil": "Podłoże przeznaczone dla roślin wilgociolubnych, bogate w keramzyt, chipsy kokosowe.",
       "picture": "https://zielony-parapet.pl/4969-thickbox_default/calathea-zebrina-kalatea-pasiasta.jpg"
+    },
+    {
+      "id": 3,
+      "plant_name": "Monstera Monkey Mask",
+      "other_name": "Monstera Adansonii",
+      "pet_friendly": "Liście monstery są silnie trujące.",
+      "lighting": "Monsterę ustawiamy w miejscu o rozproszonym świetle albo półcieniu. ",
+      "soil": "Monstery najlepiej czują się w lekkim i przepuszczalnym podłożu, bogatym w chipsy kokosowe, korę sosnową, perlit i keramzyt.",
+      "picture": "https://static2.redcart.pl/templates/images/thumb/7700/1500/1500/pl/0/templates/images/products/7700/06cc4ca9074a06bf002286cbad5a2ccc.jpg"
+    },
+    {
+      "id": 4,
+      "plant_name": "Kalatea Beauty Star",
+      "other_name": "Calathea Beauty Star",
+      "pet_friendly": "Kalatea jest nietrująca",
+      "lighting": "Półcieniste i cieniste. Unikamy wystawiania liści kalatei na bezpośrednie promieniowanie słoneczne.",
+      "soil": "Podłoże przeznaczone dla roślin wilgociolubnych, bogate w keramzyt, chipsy kokosowe, korę",
+      "picture": "https://www.jungleboogie.pl/wp-content/uploads/2023/07/calathea-beauty-star_14x40-3_1689411895-scaled.jpg"
+    },
+    {
+      "id": 5,
+      "plant_name": "Kalatea lancetolistna",
+      "other_name": "Calathea lancifolia",
+      "pet_friendly": "Kalatea jest nietrująca",
+      "lighting": "Półcieniste i cieniste.",
+      "soil": "Podłoże przeznaczone dla roślin wilgociolubnych, bogate w keramzyt, chipsy kokosowe, korę",
+      "picture": "https://hortology.co.uk/cdn/shop/products/Calathea-lancifolia-Rattlesnake-Plant-75cm_1200x.jpg?v=1689581707"
+    },
+    {
+      "id": 6,
+      "plant_name": Alocasia Dragon Scale",
+      "other_name": "Alocasia baginda",
+      "pet_friendly": "Liście alocasii są trujące, mogą też podrażniać skórę i oczy.",
+      "lighting": "Alokazje lubią dużo światła, jednak nie mogą to być palące, bezpośrednie promienie słoneczne.",
+      "soil": "Podłoże przepuszczalne, bogate w dodatki typu perlit, kora sosnowa, chipsy kokosowe, wermikulit.",
+      "picture": "https://images.obi.pl/product/PL/1500x1500/698577_1.jpg"
+    },
+    {
+      "id": 7,
+      "plant_name": "Alocasia Frydek",
+      "other_name": "Alocasia micholitziana",
+      "pet_friendly": "Liście alocasii są trujące, mogą też podrażniać skórę i oczy.",
+      "lighting": "Alokazje lubią dużo światła, jednak nie mogą to być palące, bezpośrednie promienie słoneczne.",
+      "soil": "Podłoże przepuszczalne, bogate w dodatki typu perlit, kora sosnowa, chipsy kokosowe, wermikulit.",
+      "picture": "https://handsofplants.pl/userdata/public/gfx/29771/Alocasia-micholitziana-maxkowskii-Frydek---XL.jpg"
+    },
+    {
+      "id": 8,
+      "plant_name": "Alokazja Portadora",
+      "other_name": "Alocasia Portadora",
+      "pet_friendly": "Liście alocasii są trujące, mogą też podrażniać skórę i oczy. Trzymajmy ją z dala od naszych zwierząt i małych dzieci.",
+      "lighting": "Alokazje lubią dużo światła, jednak nie mogą to być palące, bezpośrednie promienie słoneczne.",
+      "soil": Podłoże przepuszczalne, bogate w dodatki typu perlit, kora sosnowa, chipsy kokosowe, wermikulit.",
+      "picture": "https://photo.floraccess.com/rsn970f78j4982mqe4m01qpat3221geg8eour495_big.jpg"
+    },
+    {
+      "id": 9,
+      "plant_name": "Sansewieria cylindryczna",
+      "other_name": "Sansevieria cylindrica Straight",
+      "pet_friendly": "Trująca dla kotów",
+      "lighting": "Najlepsze będzie jasne, z rozproszonym światłem, ale potrafi radzić sobie w warunkach znacznego niedoboru słońca.",
+      "soil": "Podłoże przepuszczalne z dodatkiem piasku, wermikulitu lub perlitu",
+      "picture": "https://flowerexpress.pl/userdata/public/gfx/670/2.jpg"
+    },
+    {
+      "id": 10,
+      "plant_name": "Sansevieria trifasciata Laurentii",
+      "other_name": "Sansewieria gwinejska",
+      "pet_friendly": "Trująca dla kotów",
+      "lighting": "Najlepsze będzie jasne, z rozproszonym światłem, ale potrafi radzić sobie w warunkach znacznego niedoboru słońca.",
+      "soil": "Podłoże przepuszczalne z dodatkiem piasku, wermikulitu lub perlitu",
+      "picture": "https://zielony-parapet.pl/23447-thickbox_default/sansewieria-gwinejska-laurentii-sansevieria-trifasciata.jpg"
     }
   ]
 }
